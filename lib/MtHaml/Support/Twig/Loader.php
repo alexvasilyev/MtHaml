@@ -31,7 +31,7 @@ class Loader implements \Twig_LoaderInterface, \Twig_ExistsLoaderInterface
     /**
      * {@inheritdoc}
      */
-    public function getSource($name)
+    public function getSourceContext($name)
     {
         $source = $this->loader->getSource($name);
         if ('haml' === pathinfo($name, PATHINFO_EXTENSION)) {
