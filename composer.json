@@ -43,7 +43,7 @@
         "gregwar/rst": "If you want to use :rest filter"
     },
     "conflict": {
-        "mthaml/mthaml-bundle": "<1.1.0"
+        "alexvasilyev/mthaml-bundle": "<1.1.0"
     },
     "autoload": {
         "psr-0": {
