@@ -1,5 +1,5 @@
 {
-    "name": "mthaml/mthaml",
+    "name": "alexvasilyev/mthaml",
     "type": "library",
     "description": "HAML for PHP",
     "keywords": ["HAML"],
